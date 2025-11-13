@@ -5,7 +5,7 @@
 **Nombre del repositorio:** `java-fundamentals-course-Energix`  
 **Organización:** Energix-Course-Java  
 **Público objetivo:** Estudiantes de secundaria (12-17 años)  
-**Duración total:** Aproximadamente 1 hora (54 minutos)  
+**Duración total:** Aproximadamente 1 hora
 **Modalidad:** Videos de YouTube no listados + Editores online  
 
 ## 🎯 Objetivo del Curso
